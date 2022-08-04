@@ -1,0 +1,46 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Comfortaa:wght@300;700&family=Cormorant+SC:wght@700&family=Lora:ital,wght@1,700&family=Play&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+@import url('../css/components/banner.css');
+@import url('../css/components/button.css');
+@import url('../css/components/card.css');
+@import url('../css/components/footer.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family:  Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Lora', serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* Custom design below! */
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}

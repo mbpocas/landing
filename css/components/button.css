@@ -1,0 +1,13 @@
+.btn-primary {
+  display: inline-block;
+  background-color: #1c2fda;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  opacity: 0.8;
+}
+
